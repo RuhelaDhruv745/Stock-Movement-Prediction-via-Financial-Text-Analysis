@@ -75,6 +75,7 @@ pip install -r requirements.txt
 ## 📝 Author
 
 Garvit Kumbhat · [@garvit-kumbhat](https://github.com/garvit-kumbhat)
+Dhruv Ruhela · [@RuhelaDhruv745](https://github.com/RuhelaDhruv745)
 
 ---
 
